@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\dtosdotnet\\dtos_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\repositories\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:repositories\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\services\\mapperconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:services\\mapperconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\services\\repositoriesconnectionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:services\\repositoriesconnectionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\models\\dtos\\userdtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:models\\dtos\\userdtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\models\\dtos\\userdtos\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:models\\dtos\\userdtos\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\models\\domains\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:models\\domains\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\repositories\\contracts\\igenericcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:repositories\\contracts\\igenericcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\models\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:models\\entity\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\services\\dbconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:services\\dbconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|e:\\work\\dtosdotnet\\dtos_practice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D96A2-1F5B-4970-897E-12FD388B5DC4}|dtos_practice.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:17:24.531Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapperConnection.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Services\\MapperConnection.cs",
+              "RelativeDocumentMoniker": "Services\\MapperConnection.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Services\\MapperConnection.cs",
+              "RelativeToolTip": "Services\\MapperConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:30:49.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserListDTO.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\DTOs\\UserDTOs\\UserListDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UserDTOs\\UserListDTO.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\DTOs\\UserDTOs\\UserListDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\UserDTOs\\UserListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:09:29.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoriesConnectionServices.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Services\\RepositoriesConnectionServices.cs",
+              "RelativeDocumentMoniker": "Services\\RepositoriesConnectionServices.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Services\\RepositoriesConnectionServices.cs",
+              "RelativeToolTip": "Services\\RepositoriesConnectionServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:15:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:24:00.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\UserMapper.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "Mappers\\UserMapper.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:24:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\Domains\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\Domains\\UserModel.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\Domains\\UserModel.cs",
+              "RelativeToolTip": "Models\\Domains\\UserModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:56:38.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserUpdateDTO.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\DTOs\\UserDTOs\\UserUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UserDTOs\\UserUpdateDTO.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\DTOs\\UserDTOs\\UserUpdateDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\UserDTOs\\UserUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:14:06.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T20:18:57.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericCrud.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Repositories\\Contracts\\IGenericCrud.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IGenericCrud.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Repositories\\Contracts\\IGenericCrud.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IGenericCrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:43:48.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\Entity\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\EntityBase.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Models\\Entity\\EntityBase.cs",
+              "RelativeToolTip": "Models\\Entity\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:05:02.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:10:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbConnectionService.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Services\\DbConnectionService.cs",
+              "RelativeDocumentMoniker": "Services\\DbConnectionService.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Services\\DbConnectionService.cs",
+              "RelativeToolTip": "Services\\DbConnectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:08:35.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 641,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Work\\dtosdotnet\\dtos_practice\\Repositories\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Services\\UserRepository.cs",
+              "ToolTip": "E:\\Work\\dtosdotnet\\dtos_practice\\Repositories\\Services\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Services\\UserRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:00:45.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
